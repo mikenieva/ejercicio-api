@@ -1,0 +1,65 @@
+[{
+    "id": "10001",
+    "sede": "CDMX",
+    "generacion": [
+                    {"quinta": [
+                      {
+                      "nombre": "Estudiante 1",
+                      "correo": "email@email.com",
+                      "clavegeneracion": "MEX201705",
+                      "turno": "AM"
+                      },
+                      {
+                      "nombre": "Estudiante 2",
+                      "correo": "email@email.com",
+                      "clavegeneracion": "MEX201705",
+                      "turno": "AM"},
+                      {
+                      "nombre": "Estudiante 3",
+                      "correo": "email@email.com",
+                      "clavegeneracion": "MEX201705",
+                      "turno": "AM"}
+                      ]
+                    },
+                    {"cuarta": 
+                      [
+                      {
+                      "nombre": "Estudiante 1",
+                      "correo": "email@email.com",
+                      "clavegeneracion": "MEX201705",
+                      "turno": "AM"
+                      },
+                      {
+                      "nombre": "Estudiante 2",
+                      "correo": "email@email.com",
+                      "clavegeneracion": "MEX201705",
+                      "turno": "AM"
+                      },
+                      {
+                      "nombre": "Estudiante 3",
+                      "correo": "email@email.com",
+                      "clavegeneracion": "MEX201705",
+                      "turno": "AM"
+                      },
+                      {
+                      "nombre": "Estudiante 4",
+                      "correo": "email@email.com",
+                      "clavegeneracion": "MEX201705",
+                      "turno": "AM"
+                      }                   
+                      ]
+                    }
+                  ],
+    "staff": {
+        "directores": "Gabriela",
+        "coaches": [
+            {"nombre": "Manu"},
+            {"nombre": "Amalia"},
+            {"nombre": "Silvana"},
+            {"nombre": "Jonh"},
+            {"nombre": "Karla"},
+            {"nombre": "Manu"}
+          ]
+    }
+  }
+]
